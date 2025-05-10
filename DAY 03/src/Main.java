@@ -3,7 +3,7 @@ public class Main {
     public static void main(String[] args) {
 //         int[] arr = {2, 3, 4, 5, 10, 7, 0};
 //         int[] arr = {4, 5, 2};
-         int[] arr = {1};
+         int[] arr = {1, 2};
          reverseArr(arr);
 
          for(int n: arr) {
